@@ -2,13 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1220,50:2563EB,100:06B6D4&text=Oscar%20Poudel&fontSize=52&fontColor=FFFFFF&fontAlignY=41&desc=AI%20%7C%20Robotics%20%7C%20Engineering&descSize=18&descAlignY=65" alt="Oscar Poudel | AI, Robotics and  Engineering" />
 
-** Ph.D. Candidate @ NJIT** · **AI Researcher** · **Construction Robotics**
+**Ph.D. Candidate @ NJIT** · **AI Researcher** · **Construction Robotics**
 
 I develop AI, robotics, and intelligent sensing tools for construction automation and infrastructure inspection.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.oscarp.com.np/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=NWVoANsAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Contact-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:op72@njit.edu)
+[![Portfolio](https://raw.githubusercontent.com/oscarpoudel/oscarpoudel/main/assets/social/v2/portfolio.svg?v=2)](https://www.oscarp.com.np/)
+[![Google Scholar](https://raw.githubusercontent.com/oscarpoudel/oscarpoudel/main/assets/social/v2/google-scholar.svg?v=2)](https://scholar.google.com/citations?user=NWVoANsAAAAJ&hl=en)
+[![Contact](https://raw.githubusercontent.com/oscarpoudel/oscarpoudel/main/assets/social/v2/contact.svg?v=2)](mailto:op72@njit.edu)
 
 </div>
 
@@ -17,12 +17,12 @@ I develop AI, robotics, and intelligent sensing tools for construction automatio
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img src="assets/skills/languages.svg" alt="Languages technology badges" /> |
-| **Embedded & PLC** | <img src="assets/skills/embedded.svg" alt="Embedded & PLC technology badges" /> |
-| **ML & computer vision** | <img src="assets/skills/machine-learning.svg" alt="ML & computer vision technology badges" /> |
-| **Robotics & control** | <img src="assets/skills/robotics.svg" alt="Robotics & control technology badges" /> |
-| **Design & tools** | <img src="assets/skills/design-tools.svg" alt="Design & tools technology badges" /> |
-| **AI applications** | <img src="assets/skills/ai-applications.svg" alt="AI applications technology badges" /> |
+| **Languages** | <img src="https://raw.githubusercontent.com/oscarpoudel/oscarpoudel/main/assets/skills/v2/languages.svg?v=2" alt="Languages technology badges" /> |
+| **Embedded & PLC** | <img src="https://raw.githubusercontent.com/oscarpoudel/oscarpoudel/main/assets/skills/v2/embedded.svg?v=2" alt="Embedded & PLC technology badges" /> |
+| **ML & computer vision** | <img src="https://raw.githubusercontent.com/oscarpoudel/oscarpoudel/main/assets/skills/v2/machine-learning.svg?v=2" alt="ML & computer vision technology badges" /> |
+| **Robotics & control** | <img src="https://raw.githubusercontent.com/oscarpoudel/oscarpoudel/main/assets/skills/v2/robotics.svg?v=2" alt="Robotics & control technology badges" /> |
+| **Design & tools** | <img src="https://raw.githubusercontent.com/oscarpoudel/oscarpoudel/main/assets/skills/v2/design-tools.svg?v=2" alt="Design & tools technology badges" /> |
+| **AI applications** | <img src="https://raw.githubusercontent.com/oscarpoudel/oscarpoudel/main/assets/skills/v2/ai-applications.svg?v=2" alt="AI applications technology badges" /> |
 
 ## Featured projects
 
