@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1220,50:2563EB,100:06B6D4&text=Oscar%20Poudel&fontSize=52&fontColor=FFFFFF&fontAlignY=41&desc=AI%20%7C%20Robotics%20%7C%Engineering&descSize=18&descAlignY=65" alt="Oscar Poudel | AI, Robotics and  Engineering" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1220,50:2563EB,100:06B6D4&text=Oscar%20Poudel&fontSize=52&fontColor=FFFFFF&fontAlignY=41&desc=AI%20%7C%20Robotics%20%7C%20Engineering&descSize=18&descAlignY=65" alt="Oscar Poudel | AI, Robotics and  Engineering" />
 
 ** Ph.D. Candidate @ NJIT** · **AI Researcher** · **Construction Robotics**
 
