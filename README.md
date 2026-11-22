@@ -12,9 +12,6 @@ I develop AI, robotics, and intelligent sensing tools for construction automatio
 
 </div>
 
-## Research focus
-
-**Construction robotics · Human-robot interaction · Multimodal AI · Computer vision · Edge AI · Structural engineering · Intelligent infrastructure · BIM & digital twins**
 
 ## Skills & technologies
 
